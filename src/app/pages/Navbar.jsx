@@ -15,7 +15,6 @@ const navLinks = [
   { href: "/game", label: "🎮 Game" },
   { href: "/analytics", label: "Analytics" },
   { href: "/feedback", label: "Feedback" },
-  {href: "/racing", label: "🏁 Racing Game" },
 ];
 
 const Navbar = () => {
